@@ -1,7 +1,6 @@
 ## Juan Antonio Cel Vazquez 👋
 **Data Science Engineer**
 
-juanantoniocelvazquez@gmail.com 
 +52 9992233435
 
 ## About Me
@@ -22,7 +21,7 @@ Specialized in massive data processing and visualization for decision-making.
   </a>
 </p>
 
-## Contac
+## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 
 <p align="center">
 <a href="https://www.linkedin.com/in/juan-antonio-cel-vazquez-b21972255/"><img src="https://img.shields.io/badge/-Juan%20Antonio%20cel-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
