@@ -22,10 +22,6 @@ Specialized in massive data processing and visualization for decision-making.
   </a>
 </p>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Hikari6462&theme=dark&hide_border=true"/>
-</p>
-
 ## Contac
 
 <p align="center">
