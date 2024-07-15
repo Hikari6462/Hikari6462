@@ -26,6 +26,13 @@ Specialized in massive data processing and visualization for decision-making.
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Hikari6462&theme=dark&hide_border=true"/>
 </p>
 
+## Contac
+
+<p align="center">
+<a href="https://www.linkedin.com/in/juan-antonio-cel-vazquez-b21972255/"><img src="https://img.shields.io/badge/-Juan%Antonio%cel-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:adityakanoiofficial@gmail.com"><img src="https://img.shields.io/badge/-Juanantoniocel-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/hikari6462_v2/"><img src="https://img.shields.io/badge/-Hikari6462-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+</p>
 <!--
 **Hikari6462/Hikari6462** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
