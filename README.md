@@ -10,6 +10,7 @@ I am a data engineering student with a strong background in cybersecurity, web d
 **Universidad Politécnica de Yucatán** (July 2021 - 2024)   
 Specialized in massive data processing and visualization for decision-making.
 
+<!--
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
@@ -25,12 +26,12 @@ Specialized in massive data processing and visualization for decision-making.
 <br>
 <br>
 <br>
-
+-->
 -----
 
 <br>
 <br>
-<!--
+
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 
 <p align="center">
@@ -38,7 +39,7 @@ Specialized in massive data processing and visualization for decision-making.
 <a href="mailto:juanantoniocelvazquez@gmail.com"><img src="https://img.shields.io/badge/-Juanantoniocel-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/hikari6462_v2/"><img src="https://img.shields.io/badge/-Hikari6462-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
--->
+
 <!--
 **Hikari6462/Hikari6462** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
