@@ -10,7 +10,6 @@ I am a data engineering student with a strong background in cybersecurity, web d
 **Universidad Politécnica de Yucatán** (July 2021 - 2024)   
 Specialized in massive data processing and visualization for decision-making.
 
-
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
@@ -24,13 +23,9 @@ Specialized in massive data processing and visualization for decision-making.
 
 </a>
 </div>
-
 <br>
 <br>
 <br>
-
------
-
 <br>
 <br>
 
