@@ -26,8 +26,6 @@ Specialized in massive data processing and visualization for decision-making.
 <br>
 <br>
 <br>
-<br>
-<br>
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 
