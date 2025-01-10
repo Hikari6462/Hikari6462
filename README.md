@@ -3,7 +3,7 @@
 width="600"></center>  
 </p>
 
-## Juan Antonio Cel Vazquez 👋
+## Hi 👋
 **Data Science Engineer**
 
 +52 9992233435
