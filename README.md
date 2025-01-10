@@ -1,5 +1,5 @@
   <p align="center">  
-<img src="https://github.com/Hikari6462/Hikari6462/blob/main/Fot%C3%B3grafa%20Simple%20Azul%20(2).png"
+<img 
 width="600"></center>  
 </p>
 
