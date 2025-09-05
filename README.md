@@ -6,7 +6,7 @@ width="600"></center>
 ## Hi 👋
 **Data Science Engineer**
 
-+52 9992233435
+
 
 ## About Me
 I am a data engineering student with a strong background in cybersecurity, web development, and data science. I have experience in Python and C, as well as knowledge of SQL, HTML, CSS, JavaScript, and Tableau. I have faced challenges in the field of data and have B1 proficiency in English. Additionally, I possess technical skills and effective teamwork communication.
